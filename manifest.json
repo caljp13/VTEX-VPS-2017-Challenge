@@ -1,0 +1,18 @@
+{
+  "name": "fetch-from-store-graphql",
+  "vendor": "vtex",
+  "version": "0.1.1",
+  "title": "Data Fetch Sample using Store GraphQL",
+  "description": "",
+  "mustUpdateAt": "2018-09-21",
+  "registries": [
+    "smartcheckout"
+  ],
+  "dependencies": {
+    "vtex.store-graphql": "0.x"
+  },
+  "settingsSchema": {},
+  "builders": {
+    "react": "0.x"
+  }
+}

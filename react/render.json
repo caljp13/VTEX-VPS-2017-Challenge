@@ -1,0 +1,11 @@
+{
+  "extensions": {
+    "legacy-example-shelf": {
+      "component": "./ShelfExample",
+      "route": {
+        "path": "/legacy-extensions/shelf-example",
+        "auth": false
+      }
+    }
+  }
+}
